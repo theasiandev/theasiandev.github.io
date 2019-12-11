@@ -1,3 +1,13 @@
+@media screen and (max-width: 600px) {
+  .contactcontent{
+    margin-left:0px !important;
+    margin-right:0px !important;
+  }
+  .parallax3{
+    min-height:675px !important;
+  }
+}
+
 .parallax3{
   background-image: url("../img/coding_background2.png");
   height:100%;
@@ -18,4 +28,12 @@
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
   opacity:0.8;
+}
+
+.contactcontent textarea{
+  max-width:100%;
+}
+
+.contactcontent input{
+  width:110%;
 }
