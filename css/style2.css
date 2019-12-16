@@ -87,6 +87,10 @@
   padding-right:5px;
 }
 
+.educationcontent-flex img{
+  opacity:1;
+}
+
 .educationcontent-flex ul{
   text-align:left;
 }
