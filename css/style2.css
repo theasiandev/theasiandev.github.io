@@ -6,6 +6,9 @@
   .educationcontent-flex{
     align-items:none !important;
   }
+  .educationcontent{
+    margin:0px;
+  }
 }
 
 .parallax3{
@@ -51,7 +54,7 @@
 .educationcontent{
   color:white;
   text-align:center;
-  padding: 50px;
+  padding: 20px;
   margin-left:100px;
   margin-right:100px;
   background-color: #333;
