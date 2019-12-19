@@ -148,3 +148,16 @@
 .expflexbox-content a{
   color:#2bff00;
 }
+
+.projflexbox{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+}
+
+.projflexbox > div{
+  padding-left:5px;
+  padding-right:5px;
+}
