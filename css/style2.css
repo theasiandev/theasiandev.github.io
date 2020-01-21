@@ -13,6 +13,16 @@
     margin-left:100px;
     margin-right:100px;
   }
+
+  .projnexpcontent{
+    margin-left:100px;
+    margin-right:100px;
+  }
+
+  .achievement-content{
+    margin-left:100px;
+    margin-right:100px;
+  }
 }
 
 .parallax3{
@@ -111,8 +121,6 @@
   color:white;
   text-align:center;
   padding: 20px;
-  margin-left:100px;
-  margin-right:100px;
   background-color: #333;
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
@@ -178,8 +186,6 @@ a{
   color:white;
   text-align:center;
   padding: 20px;
-  margin-left:100px;
-  margin-right:100px;
   background-color: #333;
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
