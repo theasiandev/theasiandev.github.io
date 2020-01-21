@@ -6,8 +6,12 @@
   .educationcontent-flex{
     align-items:none !important;
   }
+}
+
+@media screen and (min-width:600px){
   .educationcontent{
-    margin:0px;
+    margin-left:100px;
+    margin-right:100px;
   }
 }
 
@@ -55,8 +59,6 @@
   color:white;
   text-align:center;
   padding: 20px;
-  margin-left:100px;
-  margin-right:100px;
   background-color: #333;
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   filter: alpha(opacity=80);
