@@ -122,6 +122,11 @@ navbar{
 
 .caption{
   text-align:center;
+  font-size:2vw;
+}
+
+.caption2{
+  font-size:1vw;
 }
 
 .caption img{
@@ -220,6 +225,10 @@ navbar{
   animation: bounce 2s infinite;
 }
 
+.scrolldown{
+  font-size:0.9em;
+}
+
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
@@ -229,5 +238,17 @@ navbar{
   }
   60% {
     transform: translateY(-15px);
+  }
+}
+
+@media only screen and (max-width: 600px){
+  .title{
+    font-size:40px;
+  }
+  .caption{
+    font-size:25px;
+  }
+  .caption2{
+    font-size:15px;
   }
 }
